@@ -4,6 +4,10 @@
 This documents which use to notes for the out reach activities in vision church
 ```
 
+## 0. Plan
+
+[Content Flow](./assets/outreach_thoughts.pdf)
+
 ## 1. Meeting with Plan Making Team
 
 ### Internal
@@ -73,10 +77,12 @@ a. Bạn nghĩa mình là ai? Bạn là ai Trong Đấng Christ?
         Tiếp tục tới lượt C, có thể mời A, B tùy.
 
         Trò chơi sẽ tiếp tục như vậy (khoảng 5-10 lượt thì dừng)
-
-- Lưu ý:
+    - Lưu ý:
     * Có thể trong quá trình chơi các bạn chỉ nghĩ là trò chơi nên việc nói ra những đặc điểm vui nhộn mà thôi nên không mang lại sự nhìn nhận chân thật về chính mình
     * Điều đó không quan trọng dù trong 10 lần nói ra thì cũng sẽ có 2-3 đặc điểm đúng về chính các bạn đó mà thôi
+
+2. Hoạt động chính
+
 
 ```
 
