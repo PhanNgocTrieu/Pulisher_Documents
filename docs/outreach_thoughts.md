@@ -4,6 +4,30 @@
 This documents which use to notes for the out reach activities in vision church
 ```
 
+## Kinh Thánh nền tảng
+
+[Take a look](_foundamental.html)
+
+* Phân đoạn: Công vụ, Các thư tín (chọn 1 thư tín - Ê-phê-sô)
+
+* Cuộc đời của Phao-lô
+  * Phao-lô nhìn về chính ông
+    * Trước kia:
+      * (tích cực) ông là người sốt sắng, với bằng cấp giỏi, giỏi lời Chúa,...
+      * (tiêu cực) ông là người sốt sắng trong việc phá tan Hội Thánh Chúa, giết những người theo Chúa Jesus
+
+  * Phao-lô gặp Ân điển
+    * Chúa Jesus đã bày tỏ chính Ngài trên đời sống ông
+    * Chúa Jesus đã chết thay cho tội lỗi của ông
+    * Chúa Jesus đã kêu gọi ông trở lại với Ngài
+
+  * Phao-lô nói về chính ông sau này
+    * ông được gọi là đầy tớ của Đấng Christ bởi huyết của Chúa Jesus trên thập tự giá, sự bày tỏ mầu nhiệm cách riêng biệt cho chính ông
+
+* Sự thay đổi của Phao-lô
+  * Xây dựng phát triển vương quốc của Đức Chúa Trời
+  * Ảnh hưởng Phúc Âm, mang lời Chúa đến cho nhiều người khác (đặc biệt là dân ngoại)
+
 ## 0. Plan
 
 [Content Flow](./assets/outreach_thoughts.pdf)
